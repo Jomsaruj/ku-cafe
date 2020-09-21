@@ -43,6 +43,16 @@ Item | Price |
 | Truffle Soup | 120.- |
 
 
+## Lunch Menu
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Fried chicken                          |  25.0  |
+| Omelet Rice                         |  30.0  |
+| Chicken Steak                       |  50.0  |
+| Pad Thai                    |  40.0  |
+| Roast chicken                      |  25.0  |
+
 ---
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
