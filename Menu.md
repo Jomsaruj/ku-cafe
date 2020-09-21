@@ -20,6 +20,17 @@
 | Milk Tea          | 30.-  |
 
 
+## Dinner menu
+ Item               | Price |
+|:------------------|------:|
+| Spaghetti              | 45.-  |
+| Mama Cup             | 15.-  |
+| Omellete with Rice        | 40.-  |
+| Ramen    | 35.-  |
+| Pizza with Pamaham    | 89.-  |
+| Hot Spicy fried Chicken    | 39.-  |
+
+
 ---
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
