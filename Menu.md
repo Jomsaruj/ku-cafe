@@ -34,6 +34,14 @@
 | Pizza with Pamaham    | 89.-  |
 | Hot Spicy fried Chicken    | 39.-  |
 
+## Night Food menu
+Item | Price |
+| :--- | :---: |
+| Orange Cake | 40.- |
+| Cheesecake | 50.- |
+| Ramen | 70.- |
+| Truffle Soup | 120.- |
+
 
 ---
 
