@@ -14,5 +14,8 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Your name | Your menu | @your_github_id |
-| ...       | ...       | ...      |
+| Saruj | Breakfast menu| @Jomsaruj |
+| Auttakit  | Lunch menu    | @ markna551    |
+| Setthanat | Dinner Menu| @Ing140943 | 
+| Patiphan   | Night Food menu    | @Patiphan2000     |
+| Kasidit  | Beverage menu    | @BenZacs     |
