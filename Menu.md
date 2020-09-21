@@ -4,7 +4,11 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Pad kra pao  moo                         | 50.0-   |
+| Omllet with bacon                         | 70.0-   |
+| Mix fruits salad                           |  70.0-  |
+| Poach egg with bacon                           |  120.0-  |
+| Salmon steak                          |  180.0-  |
 
 ## Beverage menu
  Item               | Price |
